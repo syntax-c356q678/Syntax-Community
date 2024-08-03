@@ -1,4 +1,4 @@
-<h3 align="center">Apa kabarnya nih semua? Semoga baik-baik saja iyaa :></h3>
+<h3 align="center">SYNTAX COMMUNITY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntax-community&label=Profile%20views&color=0e75b6&style=flat" alt="syntax-community" /> </p>
 
@@ -6,12 +6,12 @@
 
 - 📫 How to reach me **mail@syntx.id**
 
-- 📄 Know about my experiences [https://syntx.id](https://syntx.id)
+- 📄 Know about my experiences [syntx.id](https://syntx.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/syntx.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syntx.id" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@syntaxcommunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@syntaxcommunity" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SyntaxCommunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@syntaxcommunity" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
