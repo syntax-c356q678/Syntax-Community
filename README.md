@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntax-community&label=Profile%20views&color=0e75b6&style=flat" alt="syntax-community" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JS, TailwindCSS, PHP, Laravel, ReactJS**
+- 🤝 Menerima untuk Kerjasama, Seminar, Workshop dan Event lainnya
 
-- 📫 How to reach me **mail@syntx.id**
+- 📫 Hubungi kami melalui E-Mail **mail@syntx.id**
 
-- 📄 Know about my experiences [syntx.id](https://syntx.id)
+- 🌐 Website milik kami [Klik Disini](https://syntx.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
