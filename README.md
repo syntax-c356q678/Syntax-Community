@@ -4,7 +4,7 @@
 
 - 🤝 Menerima untuk Kerjasama, Seminar, Workshop dan Event lainnya
 
-- 📫 Hubungi kami melalui E-Mail **mail@syntx.id**
+- 📫 Hubungi kami melalui E-Mail: **mail@syntx.id**
 
 - 🌐 Website milik kami [Klik Disini](https://syntx.id)
 
