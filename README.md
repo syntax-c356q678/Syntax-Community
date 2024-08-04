@@ -1,4 +1,4 @@
-<h1 align="center">SYNTAX COMMUNITY</h1>
+<h1 align="center">SYNTAX COMMUNITY <br> SMK TELEKOMUNIKASI TELESANDI BEKASI</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntax-community&label=Profile%20views&color=0e75b6&style=flat" alt="syntax-community" /> </p>
 
